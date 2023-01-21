@@ -1,4 +1,10 @@
-# create-svelte
+# SAAS with Svelte (step by step commits following [Johnny Magrippis' tutorial](https://youtu.be/XuyMr4pM4B8))
+
+A demo Software as a Service solution, using SvelteKit & Supabase
+
+---
+
+## create-svelte (original README)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
